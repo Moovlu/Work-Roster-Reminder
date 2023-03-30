@@ -1,2 +1,2 @@
 # Work-Roster-Reminder
-A simple program to check for additions to my work roster and send a telegram message to me
+A simple program to check for additions to my work roster and send a telegram message to me when it notices a change/update to the roster.
